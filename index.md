@@ -1,3 +1,7 @@
+<!-- .slide: data-background-image="assets/img/pigs.png" data-background-size="contain" -->
+
+---
+
 # hello galvanize!
 
 Thanks for having me 🙏
@@ -7,7 +11,7 @@ note: make your face friendly
 
 ---
 
-## Expecations
+## the plan
 
 1. Credibility <!-- .element: class="fragment" -->
 
@@ -62,6 +66,8 @@ note:
 ---
 
 # My Background
+
+note: lots of exposure, little formal education, and gSchool
 
 
 <!-- .slide: data-background-image="assets/img/baby.jpg" data-background-size="contain" -->
@@ -145,7 +151,7 @@ while(!employed) {
 
 <!-- .slide: data-background-image="assets/img/windy.gif" data-background-size="contain" -->
 
-note: 
+note:
 * src: https://www.facebook.com/brittanygardner11/videos/10211952487671221/
 * how I got my job
 
