@@ -7,6 +7,19 @@ note: make your face friendly
 
 ---
 
+## Expecations
+
+1. Credibility <!-- .element: class="fragment" -->
+
+2. My background <!-- .element: class="fragment" -->
+
+3. Your future <!-- .element: class="fragment" -->
+
+---
+
+# Credibility
+
+
 ## I'm Chris Brown 👋
 
 <i class="fa fa-slack" aria-hidden="true"></i> chrisbrown
@@ -21,9 +34,11 @@ note: you are chris brown
 * left brain/right brain isn't really a [thing].
 [thing]: http://www.npr.org/sections/13.7/2013/12/02/248089436/the-truth-about-the-left-brain-right-brain-relationship
 
----
 
-<!-- .slide: data-background-image="assets/img/dohere.gif" -->
+<!-- .slide: data-background-image="assets/img/dogs.png" data-background-size="contain" -->
+
+
+<!-- .slide: data-background-image="assets/img/dohere.gif" data-background-size="contain" -->
 
 
 <!-- .slide: data-background-image="assets/img/skookum.png" data-background-size="contain" -->
@@ -46,7 +61,7 @@ note:
 
 ---
 
-## Backstory
+# My Background
 
 
 <!-- .slide: data-background-image="assets/img/baby.jpg" data-background-size="contain" -->
@@ -89,6 +104,7 @@ note:
 * geocities is eye cancer
 * http://www.themostamazingwebsiteontheinternet.com/
 
+
 <!-- .slide: data-background-image="assets/img/tables.png" data-background-size="contain" -->
 
 note:
@@ -112,3 +128,24 @@ note: http://dplidealab.tumblr.com/post/130896090963/coderdojo-ninjas-doing-seri
 
 
 <!-- .slide: data-background-image="assets/img/beginning.gif" data-background-size="contain" -->
+
+---
+
+# Your future
+
+<pre><code data-trim data-noescape>
+let employed = false;
+let hiring = companies.filter(company => company.isHiring)
+
+while(!employed) {
+  employed = hiring.some(company => company.hire(user));
+}
+</code></pre>
+
+
+<!-- .slide: data-background-image="assets/img/windy.gif" data-background-size="contain" -->
+
+note: 
+* src: https://www.facebook.com/brittanygardner11/videos/10211952487671221/
+* how I got my job
+
