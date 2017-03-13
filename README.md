@@ -12,7 +12,7 @@ To start, `http-server` in the root directory, and `open http://localhost:8080`
 
 ## Read online
 
-Note that this is a less good experience than running the slides, because there are pictures and gifs that you'll be missing. Note further that even just reading the slides is a lesser experience than hearing me talk about them, because there are inflections and jokes ~and my handsome face~ that you'll be missing.
+Note that this is a less good experience than running the slides, because there are pictures and gifs that you'll be missing. Note further that even just reading the slides is a lesser experience than hearing me talk about them, because there are inflections and jokes ~~and my handsome face~~ that you'll be missing.
 
 That said, knock yourself out:
 
